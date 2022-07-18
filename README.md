@@ -9,7 +9,7 @@ My name is Hai, a data enthusiast who good at logical thinking and problem solvi
   - :white_check_mark: Others: ETL Tools(Airflows,...), Docker, Data Warehouse-Data Lake solutions, no-SQL
   
 <br>
-## Connect with me
+### Connect with me :speech_balloon:
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vuthanhhai2302/)
 <br>
