@@ -1,13 +1,6 @@
 ### Hi there :v:
 
-My name is Hai, a data enthusiast. Always have Can Do attitude. Scalability and flexibility oriented. Working efficiently as both individual and teams and highly adaptive to new environments. Eager to learn not only from new aspects but also my own mistakes.
-
-
-  - :cyclone: Languagues: Vietnamese, English.
-  - :white_check_mark: Core Languages: Python, SQL(MS SQL, ORACLE SQL, POSTGRESQL)
-  - :white_check_mark: Frameworks: Hadoop, Spark(PySpark), .NET
-  - :white_check_mark: Others: ETL Tools(Airflows,...), Docker, Data Warehouse-Data Lake solutions, no-SQL
-  
+My name is Hai, a data enthusiast. Always have Can Do attitude. Scalability and flexibility oriented.
   
   
 ### Connect with me :speech_balloon:
