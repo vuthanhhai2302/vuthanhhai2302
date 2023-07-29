@@ -2,9 +2,9 @@
 
 ![background_picture](readme_media/github_background.jpg)
 
-<h3 align="center">My name is Hai, a data enthusiast located in HCMC</h3>
+<h3 align="left">Nice to meet you! My name is Hai, a data enthusiast located in HCMC, with  a proven track record in designing, implementing, and maintaining robust batch/streaming pipelines and scalable data solutions. Adept at bridging the gap between development and operations teams to deliver insights, enhance system performance, and optimize overall efficiency.</h3>
 
-<h4 align="center"> Always have Can Do attitude. Scalability and flexibility oriented.</h4>
+<h4 align="center"> Always have Can Do attitude and seek for best practices to drive continuous improvement and deliver high-quality solution with scalability and flexibility oriented mindset.</h4>
 
 <!--
 **thanhHai2302/thanhHai2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
