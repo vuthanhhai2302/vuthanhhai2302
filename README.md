@@ -1,4 +1,7 @@
 ### Hi there :v:
+
+<h3 align="center"> ![background_picture](media/github_background.jpg) </h3>
+
 <h3 align="center">My name is Hai, a data enthusiast located in HCMC</h3>
 
 <h4 align="center"> Always have Can Do attitude. Scalability and flexibility oriented.</h4>
