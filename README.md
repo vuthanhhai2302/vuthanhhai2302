@@ -1,6 +1,6 @@
 ### Hi there :v:
 
-<h3 align="center"> ![background_picture](readme_media/github_background.jpg) </h3>
+![background_picture](readme_media/github_background.jpg)
 
 <h3 align="center">My name is Hai, a data enthusiast located in HCMC</h3>
 
