@@ -1,6 +1,7 @@
-### Hi there :v:
 
 ![background_picture](readme_media/github_background.jpg)
+
+### Hi there :v:
 
 <h3 align="left">Nice to meet you!</h3>
 
