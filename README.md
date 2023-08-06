@@ -5,9 +5,11 @@
 
 <h3 align="left">Nice to meet you!</h3>
 
-<h4 align="left"> My name is Hai, a data enthusiast located in HCMC.</h4>
-<h4 align="left"> Currently I am focusing on being better at programing and trying to dive in the fundamentals of Computer Science.</h4>
-<h4 align="left"> Let's join my quest on being better every day 😄 </h4>
+My name is Hai, a data enthusiast located in HCMC.
+
+Currently I am focusing on being better at programing and trying to dive in the fundamentals of Computer Science.
+
+Let's join my quest on being better every day 😄
 <!--
 **thanhHai2302/thanhHai2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
