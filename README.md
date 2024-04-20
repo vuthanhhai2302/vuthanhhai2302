@@ -3,13 +3,12 @@
 
 ### Hi there :v:
 
-<h3 align="left">Nice to meet you!</h3>
+Nice to meet you!
 
-My name is Hai, a data enthusiast located in HCMC.
+My name is Hai, a data-software enthusiast located in HCMC.
 
-Currently I am focusing on being better at programing and trying to dive in the fundamentals of Computer Science.
+Currently I’m looking to collaborate on data platform. If you need a scalability and flexibility oriented engineer, please feel free to reach me out.
 
-Let's join my quest on being better every day 😄
 <!--
 **thanhHai2302/thanhHai2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
